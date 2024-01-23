@@ -1,9 +1,6 @@
 # 💫 About Me:
 Hi!<br>Iam Apoorva Venkata<br>A versatile Engineer + MBA turned analytics maven, with a flair for unraveling mysteries of data!
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tav97&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/apoorva-venkata-8183ab170/) 
 
